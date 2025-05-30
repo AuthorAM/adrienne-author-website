@@ -18,3 +18,15 @@ Did you enjoy this practical style of learning? There's no better way to learn t
 
 Let's keep the momentum going! Head over to [GitHub Skills](https://skills.github.com) catalog to find another hands-on exercise. :rocket:
 
+
+## How-Tos
+### Posts
+Posts are .md files stored in the `_posts` directory.
+All such MD files need to be named with this convetion: `YYY-MM-DD-TITLE-SLUG-HERE.md`
+All such MD files need to have frontmatter YAML: 
+```
+---
+title: "Welcome to my blog"
+date: 2025-05-15
+---
+```
